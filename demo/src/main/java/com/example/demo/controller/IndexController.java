@@ -18,8 +18,8 @@ public class IndexController {
     public String about(Model model){
         return "about";
     }
-    @RequestMapping("/1")
-    public String one(Model model){
-        return "1";
-    }
+//    @RequestMapping("/1")
+//    public String one(Model model){
+//        return "1";
+//    }
 }
